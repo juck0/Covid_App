@@ -18,7 +18,7 @@ class InfoFragment: BaseFragment<FragmentInfoBinding>() {
     override fun addCallBack() {
         var url:String
         binding?.buttonGithubEnas?.setOnClickListener{
-                url="https://github.com/Rafal-a"
+                url="https://github.com/EnasKhazal"
                 gitHubAccount(url)
         }
         binding?.buttonGithubAymn?.setOnClickListener {
@@ -29,7 +29,7 @@ class InfoFragment: BaseFragment<FragmentInfoBinding>() {
 
     }
     private fun gitHubAccount(url:String){
-        var intent = Intent(Intent.ACTION_VIEW)
+        val intent = Intent(Intent.ACTION_VIEW)
         intent.data = Uri.parse(url)
         startActivity(intent)
     }

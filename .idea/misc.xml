@@ -3,13 +3,15 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/AndroidStuioProjects/CovidApp/app/src/main/res/drawable-v24/search_info_shape.xml" value="0.2453125" />
+        <entry key="..\:/AndroidStuioProjects/CovidApp/app/src/main/res/drawable/hero_image.xml" value="0.240625" />
         <entry key="..\:/AndroidStuioProjects/CovidApp/app/src/main/res/layout/activity_home.xml" value="0.22447916666666667" />
         <entry key="..\:/AndroidStuioProjects/CovidApp/app/src/main/res/layout/activity_main.xml" value="0.21041666666666667" />
         <entry key="..\:/AndroidStuioProjects/CovidApp/app/src/main/res/layout/activity_splash_screen.xml" value="0.22447916666666667" />
         <entry key="..\:/AndroidStuioProjects/CovidApp/app/src/main/res/layout/fragment_astazanika.xml" value="0.22447916666666667" />
         <entry key="..\:/AndroidStuioProjects/CovidApp/app/src/main/res/layout/fragment_covid_prevent.xml" value="0.22447916666666667" />
         <entry key="..\:/AndroidStuioProjects/CovidApp/app/src/main/res/layout/fragment_details.xml" value="0.22447916666666667" />
-        <entry key="..\:/AndroidStuioProjects/CovidApp/app/src/main/res/layout/fragment_home.xml" value="0.19166666666666668" />
+        <entry key="..\:/AndroidStuioProjects/CovidApp/app/src/main/res/layout/fragment_home.xml" value="0.33" />
         <entry key="..\:/AndroidStuioProjects/CovidApp/app/src/main/res/layout/fragment_info.xml" value="0.22447916666666667" />
         <entry key="..\:/AndroidStuioProjects/CovidApp/app/src/main/res/layout/fragment_johnson_and_johnson.xml" value="0.22447916666666667" />
         <entry key="..\:/AndroidStuioProjects/CovidApp/app/src/main/res/layout/fragment_moderna.xml" value="0.22447916666666667" />

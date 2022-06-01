@@ -20,7 +20,6 @@ class HomeActivity : AppCompatActivity() {
     private val fragmentSearch = SearchFragment()
     private val fragmentInfo = InfoFragment()
 
-    //    private val fragmentDetails = DetailsFragment()
     private val vaccineTypeFragment = VaccineTypeFragment()
     private val covidPreventFragment = CovidPreventFragment()
 
